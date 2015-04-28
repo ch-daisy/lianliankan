@@ -1,0 +1,22 @@
+body{
+	background-color:#ccc;
+}
+div.main{
+	width:80%;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}
+table{
+	border-collapse: collapse;
+	margin:auto;
+}
+td{
+	cursor: pointer;
+}
+td img{
+  height: 40px;
+  width: 40px;
+  border: solid #fff 3px;
+}
